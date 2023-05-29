@@ -17,6 +17,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+img.sec-img-m.p-2 {
+    width: 75%;
+}
 
 .sec-logo {
     float: right;
@@ -138,7 +141,9 @@ a{
     .sec-img-m {
         width: 100%;
     }
-
+    .sec-img-m2 {
+        width: 100%;
+    }
     .sec-icon-p {
         font-size: 28px;
         background-color: #fff;
